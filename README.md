@@ -2,6 +2,7 @@
 ## Easy ExitNode configuration for your Tor Browser
 ### How to install EspressoNode?
 - Dowload the EspressoNode.py file
+- Install the external libraries `tkinter` and `ttkthemes` using `pip`
 - Run the Python File using ``python3 .\EspresoNode.py``
 - Select the country code of the country you want to connect to from the list (I've added a country code and country table to the end of the documentation)
 - Click Go
@@ -504,3 +505,8 @@ ZAMBIA                                zm
 
 ZIMBABWE                              zw
 ```
+
+#### Legal
+This project uses ttkthemes by the ttkthemes authors. [https://ttkthemes.readthedocs.io](https://ttkthemes.readthedocs.io)
+
+I use the Arc theme included in the ttkthemes library.
