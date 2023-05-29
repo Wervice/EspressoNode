@@ -1,5 +1,13 @@
 # EspressoNode
 ## Easy ExitNode configuration for your Tor Browser
+
+<div align=center>
+
+![](./espresso_node_logo_small.png)
+
+</div>
+
+
 ### How to install EspressoNode?
 - Dowload the EspressoNode.py file
 - Install the external libraries `tkinter` and `ttkthemes` using `pip`
