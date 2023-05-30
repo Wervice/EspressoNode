@@ -17,18 +17,26 @@ EspressoNode is an application to configure your Tor Browsers ExitNode. Using th
 
 </div>
 
-### How to install EspressoNode?
-- Dowload the EspressoNode.py file
-- Install the external libraries `tkinter` and `ttkthemes` using `pip`
-- Run the Python File using ``python3 .\EspresoNode.py``
-- Select the country code of the country you want to connect to from the list
-- Click Go
-- Select the folder of your Tor installation
-- After a few seconds, the country is set
-- Restart the Tor Browser
-- You're done
+### Use EspressoNode in 10 steps
+1. Download & Install the Tor Browser from the offical page 
+2. Clone the respository and open a command prompt in it
+3. Install the external libraries `tkinter` and `ttkthemes` using `pip`
+4. Run the Python File using ``python3 .\EspresoNode.py``
+5. Select the country code of the country you want to connect to from the list
+6. Click Go
+7. Select the folder of your Tor installation
+8. Wait a second
+9 Launch the Tor Browser
+10 You're done
 
-#### Legal
+### Send feedback
+Do you like EspressoNode and is it easy-to-use?
+
+Send me your feedback and give me a star if you want.
+
+My email: [wervice@proton.me](wervice@proton.me)
+
+#### Legal Notice
 This project uses ttkthemes by the ttkthemes authors. [https://ttkthemes.readthedocs.io](https://ttkthemes.readthedocs.io)
 
 I use the Breeze theme included in the ttkthemes library.
