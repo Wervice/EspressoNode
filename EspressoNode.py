@@ -10,6 +10,7 @@ window = ThemedTk(theme="breeze")
 window.title("EspressoNode - Tor Exit Node Specify")
 window.geometry("500x200")
 window.resizable(0,0)
+window.iconbitmap("logo.ico")
 window.config(background="white")
 
 def run():
@@ -29,7 +30,9 @@ def run():
         torrc_writer = open(folder+"/Browser/TorBrowser/Data/Tor/torrc", "w")
         torrc_writer.write(new_torrc)
         torrc_writer.close()
-        mb.showinfo(title="Upated", message="The ExitNode is up-to-date. You need to restart Tor to apply the changes.")
+        if mb.askyesno(title="Upated", message="The ExitNode is up-to-date. You need to restart Tor to apply the changes. Do you want to open a new Tor Browser Session up?"):
+            os.system("\""+folder+"/Browser/firefox.exe\"")
+            print("\""+folder+"/Browser/firefox.exe\"")
     except FileNotFoundError:
         mb.showerror(title="Wrong Folder", message="Please select the Tor Installation Folder.")
 
