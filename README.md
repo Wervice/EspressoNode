@@ -34,7 +34,7 @@ Do you like EspressoNode and is it easy-to-use?
 
 Send me your feedback and give me a star if you want.
 
-My email: [wervice@proton.me](wervice@proton.me)
+My email: [wervice@proton.me](mailto:wervice@proton.me)
 
 #### Legal Notice
 This project uses ttkthemes by the ttkthemes authors. [https://ttkthemes.readthedocs.io](https://ttkthemes.readthedocs.io)
