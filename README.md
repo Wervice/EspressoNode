@@ -1,7 +1,7 @@
 <br>
 <div align=center>
 
-<img src=./espresso_node_text_logo.png alt=EspressoNode style=width:50vw;min-width:5cm;max-width:2040px;>
+<img src=./espresso_node_text_logo.png alt=EspressoNode width=500>
 
 </div>
 <br>
@@ -13,7 +13,7 @@ EspressoNode is an application to configure your Tor Browsers ExitNode. Using th
 <br>
 <div align=center>
 
-<img src=./espresso_node_screenshot.png alt="EspressoNode User Interface Screenshot" style=width:50vw;min-width:5cm;max-width:450px;>
+<img src=./espresso_node_screenshot.png alt="EspressoNode User Interface Screenshot" width=450>
 
 </div>
 
