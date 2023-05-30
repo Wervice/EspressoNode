@@ -31,4 +31,4 @@ EspressoNode is an application to configure your Tor Browsers ExitNode. Using th
 #### Legal
 This project uses ttkthemes by the ttkthemes authors. [https://ttkthemes.readthedocs.io](https://ttkthemes.readthedocs.io)
 
-I use the Arc theme included in the ttkthemes library.
+I use the Breeze theme included in the ttkthemes library.
